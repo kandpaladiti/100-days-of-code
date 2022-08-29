@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log Book
 
 ### Day 1: July 25, 2022 
 
