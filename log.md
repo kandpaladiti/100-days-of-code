@@ -900,3 +900,29 @@ As per my quest of public commitment to dedicate daily hours to code continues I
 **Link to work:**  
 
 N/A
+
+
+### Day 36: August 29, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- Revised Advanced CSS: Inline V/S External
+- Intermediate JavaScript
+
+Java Programming:
+- Number Pattern Printing Variations
+- Star Pattern Printing Variations
+
+
+**Thoughts**:
+
+Drop by drop becomes the ocean, similar is the vibe of this programming hustle and my experimentations with coding so far, I’m on my pathway to the #100daysofcode journey and have completed 36% as of today.
+
+
+**Link to work:**  
+
+N/A
