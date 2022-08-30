@@ -926,3 +926,31 @@ Drop by drop becomes the ocean, similar is the vibe of this programming hustle a
 **Link to work:**  
 
 N/A
+
+
+### Day 37: August 30, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- JavaScript: Good Parts
+- DOM Manipulation
+
+Java Programming:
+- Number Pattern Printing Variations
+- Star Pattern Printing Variations
+
+
+
+**Thoughts**:
+
+In the series of my regular coding updates back again with nits and bits of the day, I’m on my pathway to the #100daysofcode journey and have completed 37% as of today.
+
+
+
+**Link to work:**  
+
+N/A
