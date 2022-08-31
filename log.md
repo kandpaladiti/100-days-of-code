@@ -954,3 +954,29 @@ In the series of my regular coding updates back again with nits and bits of the 
 **Link to work:**  
 
 N/A
+
+
+
+### Day 38: August 31, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- JavaScript: The Good Parts
+- Data Type and Functions Implementation.
+
+Java Programming:
+- Number Pattern Printing
+
+
+**Thoughts**:
+
+In the series of my regular coding updates hereby dropping off the learned bits, I’m on my pathway to the #100daysofcode journey and have completed 38% as of today.
+
+
+**Link to work:**  
+
+N/A
