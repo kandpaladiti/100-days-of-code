@@ -957,7 +957,7 @@ N/A
 
 
 
-### Day 38: August 31, 2022 
+### Day 39: September 01, 2022 
 
 
 **Today's Progress**: 
@@ -965,16 +965,17 @@ N/A
 And the summary of my day goes like: -
 
 Web Development:
-- JavaScript: The Good Parts
-- Data Type and Functions Implementation.
+- freeCodeCamp JavaScript coding exercises
 
 Java Programming:
-- Number Pattern Printing
+- Basic terminologies of DSA
+- Linear and Non-Linear Data Types
+- Abstract Data Types
 
 
 **Thoughts**:
 
-In the series of my regular coding updates hereby dropping off the learned bits, I’m on my pathway to the #100daysofcode journey and have completed 38% as of today.
+I'm currently 39% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
 
 
 **Link to work:**  
