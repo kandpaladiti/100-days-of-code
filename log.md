@@ -981,3 +981,29 @@ I'm currently 39% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 40: September 02, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freeCodeCamp JavaScript coding exercises
+
+Java Programming:
+- Arrays, Lists, Queues
+- Graphs and Tree
+- Data Structures: Operations (Traversing, Sorting, Selection, Insertion)
+
+
+**Thoughts**:
+
+I'm currently 40% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
