@@ -1007,3 +1007,27 @@ I'm currently 40% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+### Day 41: September 03, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- Freecodecamp coding exercises
+
+Java Programming:
+-	Program execution in C
+-	Multiplication and Constraints
+
+
+**Thoughts**:
+
+I'm currently 41% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
