@@ -1031,3 +1031,28 @@ I'm currently 41% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 42: September 04, 2022 
+
+
+**Today's Progress**: 
+And the summary of my day goes like: -
+
+Web Development:
+
+- freeCodeCamp coding exercises
+
+Programming:
+
+-  Storage classes and Operators in C
+
+-  Decision making and Introduction to loops in C
+
+
+**Thoughts**:
+I'm currently 42% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
