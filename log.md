@@ -1079,3 +1079,25 @@ I'm currently 43% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+
+### Day 44: September 06, 2022 
+
+
+**Today's Progress**: 
+Web Development:
+- freeCodeCamp coding exercises
+
+Programming:
+-       Parity and Hamming Code
+-       Infix to Postfix Conversion
+-       Infix to Prefix Conversion
+-       Postfix evaluation
+
+
+**Thoughts**:
+I'm currently 44% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
