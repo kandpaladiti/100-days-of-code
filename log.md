@@ -1126,3 +1126,33 @@ I'm currently 45% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+### Day 46: September 08, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+
+- freeCodeCamp coding exercises
+
+Programming:
+
+-       Aggregation v/s Association v/s Composition
+
+-       Class Model and its classification
+
+-       Object oriented v/s Object based
+
+-       Fully Object Oriented v/s Pure Object Oriented
+
+
+**Thoughts**:
+
+I'm currently 46% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
