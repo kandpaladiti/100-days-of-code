@@ -1156,3 +1156,28 @@ I'm currently 46% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 47: September 09, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freeCodeCamp coding exercises
+
+Programming:
+-       Queue Implementations
+
+
+**Thoughts**:
+
+I'm currently 47% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
+
