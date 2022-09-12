@@ -1227,3 +1227,32 @@ I'm currently 49% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 50: September 12, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freeCodeCamp coding exercises
+
+Programming:
+- Dequeue Types
+- Dequeue Algorithms
+- Dequeue Source Code
+- Dequeue Applications
+
+**Thoughts**:
+
+Very elated to state that half of the hustle to my decided benchmark is done today and I feel more motivated than ever to come this far with the help of online free resources and the dev community.
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 50% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
