@@ -1256,3 +1256,29 @@ I'm currently 50% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 51: September 13, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freeCodeCamp coding exercises
+
+Programming:
+-       LinkedList Overview
+-       LinkedList Algorithms
+-       Pointers
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 51% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
