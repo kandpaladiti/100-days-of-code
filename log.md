@@ -1353,3 +1353,25 @@ I'm currently 54% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+
+### Day 55: September 17, 2022 
+
+
+**Today's Progress**: 
+
+Web Development:
+- Freecodecamp css coding exercises
+
+Programming:
+-	Linked List problem solving
+
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 55% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
