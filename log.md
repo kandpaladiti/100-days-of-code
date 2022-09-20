@@ -1428,3 +1428,29 @@ I'm currently 57% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+
+### Day 58: September 20, 2022 
+
+
+**Today's Progress**: 
+And the summary of my day goes like: -
+
+Web Development:
+- Freecodecamp Advanced CSS coding exercises
+
+Discrete Mathematics:
+-	Arguments
+-	FSM Design
+-	Equivalent State and Finite State
+
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 58% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
+
