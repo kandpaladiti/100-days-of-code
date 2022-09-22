@@ -1480,3 +1480,29 @@ I'm currently 59% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 60: September 21, 2022 
+
+
+**Today's Progress**: 
+And the summary of my day goes like: -
+
+Web Development:
+- freeCodeCamp Advanced CSS coding exercises
+
+Programming
+-       Linked List Implementation
+-       Linked List Types
+-       Introduction to searching algorithms
+
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 60% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
