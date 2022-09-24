@@ -1526,7 +1526,32 @@ Discrete Mathematics:
 **Thoughts**:
 
 Cheers to the wonders of deployments and learnings yet to come.
-I'm currently 60% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+I'm currently 61% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+
+**Link to work:**  
+
+N/A
+
+
+### Day 62: September 24, 2022 
+
+
+**Today's Progress**: 
+
+Web Development:
+- freeCodeCamp Advanced CSS coding exercises
+
+Discrete Mathematics:
+-       Kruskal’s and Prim’s Algorithm
+-       Recurrence Relation
+-       Numeric Function and Generation Function
+
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 62% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
 
 
 **Link to work:**  
