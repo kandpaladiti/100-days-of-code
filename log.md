@@ -1540,7 +1540,7 @@ N/A
 **Today's Progress**: 
 
 Web Development:
-- freeCodeCamp Advanced CSS coding exercises
+-       freeCodeCamp Advanced CSS coding exercises
 
 Discrete Mathematics:
 -       Kruskal’s and Prim’s Algorithm
