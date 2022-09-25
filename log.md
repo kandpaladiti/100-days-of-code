@@ -1558,3 +1558,27 @@ I'm currently 62% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+
+### Day 63: September 25, 2022 
+
+
+**Today's Progress**: 
+
+Web Development:
+- Freecodecamp CSS Projects
+
+Discrete Mathematics:
+-	Keywords
+-	Classes and Objects
+-	Constructors
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 63% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
+
