@@ -1582,3 +1582,24 @@ I'm currently 63% of the way through the #100daysofcode quest and will be passin
 N/A
 
 
+### Day 64: September 26, 2022 
+
+
+**Today's Progress**: 
+
+Web Development:
+- freeCodeCamp CSS Projects
+
+Java Programming:
+-       Doubly Linked Lists
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 64% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
+
