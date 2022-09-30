@@ -1676,3 +1676,31 @@ I'm currently 67% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+
+### Day 67: September 29, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freecodecamp JS Introduction exercises
+
+Programming:
+-	LinkedList Problem Solving
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 67% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
+
+
+
+
+
