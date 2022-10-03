@@ -1746,3 +1746,28 @@ I'm currently 70% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+
+
+### Day 71: October 3, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freeCodeCamp JS Intermediate exercises
+
+Programming:
+-       Data types in JS
+-       typeof() function in JS
+-       Data conversion and coercion
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 71% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
