@@ -1771,3 +1771,27 @@ I'm currently 71% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+
+### Day 72: October 4, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freecodecamp JS Intermediate exercises
+
+Programming:
+-	Coding Challenge in JS
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 72% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
