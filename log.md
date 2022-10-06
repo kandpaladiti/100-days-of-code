@@ -1797,7 +1797,7 @@ I'm currently 72% of the way through the #100daysofcode quest and will be passin
 N/A
 
 
-### Day 73: October 4, 2022 
+### Day 73: October 5, 2022 
 
 
 **Today's Progress**: 
@@ -1816,6 +1816,32 @@ Programming:
 
 Cheers to the wonders of deployments and learnings yet to come.
 I'm currently 73% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
+
+
+### Day 74: October 6, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freeCodeCamp JS Intermediate exercises
+
+Programming:
+-       Truth and False Values in JS
+-       Equality Operators in JS
+
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 74% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
 
 **Link to work:**  
 
