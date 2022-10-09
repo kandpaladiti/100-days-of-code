@@ -1849,7 +1849,7 @@ N/A
 
 
 
-### Day 75: October 6, 2022 
+### Day 75: October 7, 2022 
 
 
 **Today's Progress**: 
@@ -1875,7 +1875,7 @@ N/A
 
 
 
-### Day 76: October 6, 2022 
+### Day 76: October 8, 2022 
 
 
 **Today's Progress**: 
@@ -1897,3 +1897,30 @@ I'm currently 76% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+
+### Day 77: October 9, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freecodecamp JS Intermediate exercises
+
+Programming:
+-	Boolean Logic in JS
+-	Logical Operators in JS
+-	Switch Statement in JS
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 77% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
