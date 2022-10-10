@@ -1900,7 +1900,7 @@ N/A
 
 
 
-### Day 77: October 9, 2022 
+### Day 78: October 10, 2022 
 
 
 **Today's Progress**: 
@@ -1911,9 +1911,8 @@ Web Development:
 - freecodecamp JS Intermediate exercises
 
 Programming:
--	Boolean Logic in JS
--	Logical Operators in JS
--	Switch Statement in JS
+-	Conditional Statements in JS
+-	Ternary Operators in JS
 
 **Thoughts**:
 
