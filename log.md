@@ -1900,7 +1900,7 @@ N/A
 
 
 
-### Day 78: October 10, 2022 
+### Day 78: October 9, 2022 
 
 
 **Today's Progress**: 
@@ -1947,4 +1947,30 @@ I'm currently 79% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+
+### Day 80: October 11, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Web Development:
+- freeCodeCamp JS Intermediate exercises
+
+Programming:
+-       Coding challenges in JS
+
+
+**Thoughts**:
+
+Cheers to the wonders of deployments and learnings yet to come.
+I'm currently 80% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
 
