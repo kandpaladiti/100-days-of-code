@@ -1999,7 +1999,7 @@ I'm currently 81% of the way through the #100daysofcode quest and will be passin
 N/A
 
 
-### Day 82: October 11, 2022 
+### Day 82: October 13, 2022 
 
 
 **Today's Progress**: 
@@ -2007,16 +2007,15 @@ N/A
 And the summary of my day goes like: -
 
 Web Development:
-- freeCodeCamp JS Intermediate exercises
+- freecodecamp JS Intermediate exercises
 
-Programming:
--       Coding challenges in JS
-
+Java Programming:
+-	Recursion practice programs
 
 **Thoughts**:
 
 Cheers to the wonders of deployments and learnings yet to come.
-I'm currently 81% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+I'm currently 82% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
 
 **Link to work:**  
 
