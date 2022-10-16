@@ -2020,3 +2020,25 @@ I'm currently 82% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+### Day 84: October 16, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+- Visualizing Recursion (Recursion Tree)
+- Program of Fibonacci Numbers and Binary Search Using Recursion
+- Key areas to be focused for recursion
+- Types of Recurrence Relation
+
+**Thoughts**:
+
+Well, I'm quite thrilled since I've finished 84% of the path and am getting close to my target with more enthusiasm, and joy.
+
+**Link to work:**  
+
+N/A
+
