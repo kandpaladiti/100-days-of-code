@@ -2042,3 +2042,24 @@ Well, I'm quite thrilled since I've finished 84% of the path and am getting clos
 
 N/A
 
+
+### Day 85: October 17, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+- Time Complexity
+- Comparing Complexities
+- Procedure for Analyzing Complexity
+
+**Thoughts**:
+
+Well, I'm quite thrilled since I've finished 85% of the #100daysofcode and am getting close to my target with more enthusiasm, and joy.
+
+**Link to work:**  
+
+N/A
+
