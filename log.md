@@ -2063,3 +2063,24 @@ Well, I'm quite thrilled since I've finished 85% of the #100daysofcode and am ge
 
 N/A
 
+
+### Day 86: October 18, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+- Big - O Notation
+- Big - Omega Notation
+- Big - Theta Notation
+
+**Thoughts**:
+
+Well, I'm quite thrilled since I've finished 86% of the #100daysofcode and am getting close to my target with more enthusiasm, and joy.
+
+**Link to work:**  
+
+N/A
+
