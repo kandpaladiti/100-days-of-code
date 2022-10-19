@@ -2084,3 +2084,23 @@ Well, I'm quite thrilled since I've finished 86% of the #100daysofcode and am ge
 
 N/A
 
+
+### Day 87: October 19, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+- Time complexity basics
+- Time complexity implementations
+
+**Thoughts**:
+
+Well, I'm quite thrilled since I've finished 87% of the #100daysofcode and am getting close to my target with more enthusiasm, and joy.
+
+**Link to work:**  
+
+N/A
+
