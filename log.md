@@ -2104,3 +2104,22 @@ Well, I'm quite thrilled since I've finished 87% of the #100daysofcode and am ge
 
 N/A
 
+
+### Day 88: October 20, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+GitHub:
+- GitHub Skills Labs exercises
+
+**Thoughts**:
+
+Well, I'm quite thrilled since I've finished 87% of the #100daysofcode and am getting close to my target with more enthusiasm, and joy.
+
+**Link to work:**  
+
+N/A
+
