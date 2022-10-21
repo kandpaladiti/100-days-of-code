@@ -2117,7 +2117,30 @@ GitHub:
 
 **Thoughts**:
 
-Well, I'm quite thrilled since I've finished 87% of the #100daysofcode and am getting close to my target with more enthusiasm, and joy.
+Well, I'm quite thrilled since I've finished 88% of the #100daysofcode and am getting close to my target with more enthusiasm, and joy.
+
+**Link to work:**  
+
+N/A
+
+
+### Day 89: October 21, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+- Little-O Notation
+- Little-Omega Notation
+- Space Complexity
+- Question : finding time complexity of the algorithm
+
+
+**Thoughts**:
+
+I'm currently 89% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
 
 **Link to work:**  
 
