@@ -2146,3 +2146,27 @@ I'm currently 89% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+
+### Day 90: October 22, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+- Complexity Analysis : Sorting Algorithms
+- Complexity Analysis : Recursive Algorithms/Programs
+- Types of Recurrence Relation
+- Akra Bazzi Theorem
+- Practice Questions based on Akra Bazzi Theorem
+
+
+**Thoughts**:
+
+I'm currently 90% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
