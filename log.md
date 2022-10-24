@@ -2191,3 +2191,23 @@ I'm currently 91% of the way through the #100daysofcode quest and will be passin
 
 N/A
 
+
+### Day 92: October 24, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+- HackerRank Java Practice Problems (BASIC)
+
+**Thoughts**:
+
+I'm currently 92% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
+
