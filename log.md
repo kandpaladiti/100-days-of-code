@@ -2211,3 +2211,22 @@ I'm currently 92% of the way through the #100daysofcode quest and will be passin
 N/A
 
 
+
+### Day 93: October 25, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Open Source:
+
+- GitHub Skills Lab: Markdown Exercise
+
+**Thoughts**:
+
+I'm currently 93% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
