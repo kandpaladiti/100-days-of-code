@@ -2230,3 +2230,23 @@ I'm currently 93% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 94: October 26, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Open Source:
+- GitHub Skills Lab: Pull Request Exercise
+- Learned about version control, branching and GitHub Actions
+
+**Thoughts**:
+
+I'm currently 94% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
