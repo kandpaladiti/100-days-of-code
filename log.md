@@ -2250,3 +2250,23 @@ I'm currently 94% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 95: October 27, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+DSA:
+
+- Revised Linked List (Algorithms and codes)
+
+**Thoughts**:
+
+I'm currently 95% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
