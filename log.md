@@ -2289,3 +2289,25 @@ I'm currently 96% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+
+### Day 97: October 29, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Programming:
+
+-       Concatenation of singly LinkedList (Algorithm, Pseudo Code, Program)
+-       Concatenation of doubly LinkedList (Algorithm, Pseudo Code, Program)
+
+**Thoughts**:
+
+I'm currently 97% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
