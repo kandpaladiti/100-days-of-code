@@ -2311,3 +2311,23 @@ I'm currently 97% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 98: October 30, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+
+-       LeetCode Practice Prolems (EASY)
+
+**Thoughts**:
+
+I'm currently 97% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
