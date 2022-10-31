@@ -2326,7 +2326,30 @@ Java Programming:
 
 **Thoughts**:
 
-I'm currently 97% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+I'm currently 98% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
+
+
+### Day 99: October 31, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Open Source (GitHub Skill Labs):
+
+- Communicate using Markdown
+- GitHub Pages
+- Review pull requests
+- Resolve merge conflicts
+
+**Thoughts**:
+
+I'm currently 99% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
 
 **Link to work:**  
 
