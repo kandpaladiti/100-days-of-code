@@ -2354,3 +2354,23 @@ I'm currently 99% of the way through the #100daysofcode quest and will be passin
 **Link to work:**  
 
 N/A
+
+
+### Day 100: November 01, 2022 
+
+
+**Today's Progress**: 
+
+And the summary of my day goes like: -
+
+Java Programming:
+
+- Practiced problem solving on hackerrank
+
+**Thoughts**:
+
+I'm currently 100% of the way through the #100daysofcode quest and will be passing on the learnt parts in a series of my regular coding posts.
+
+**Link to work:**  
+
+N/A
