@@ -2374,3 +2374,5 @@ I'm currently 100% of the way through the #100daysofcode quest and will be passi
 **Link to work:**  
 
 N/A
+
+"100 DAYS OF CODE COMPLETED SUCCESSFULLY"
